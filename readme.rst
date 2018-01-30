@@ -1,6 +1,5 @@
 ###################
-What is KSL-UNG.COM
+What is Explore
 ###################
 
-KSL-UNG.COM adalah web komunitas yang saya buat untuk menjadi website pribadi/company profile dari Unit Kegiatan Mahasiswa - Fakultas (UKM-F) Teknik, sekaligus menjadi media informasi kepada publik mengenai KSL-UNG. Web ini adalah Probono Project pertama saya dan menjadi project web kedua yang saya buat. Untuk melihat langsung webnya silahkan akses `KSL-UNG.COM
-<https://ksl-ung.com>`_ . Website ini dibangun menggunakan CodeIgniter 3.1.6.
+Explore adalah sebuah website media informasi berita yang memungkinkan pengguna untuk memposting berita yang ada kepada masyarakat luas. Website ini dibangun dengan PHP Native sekaligus menjadi Weekend Project Pertama saya. Dengan beberapa fitur yang saya sudah saya rancang seperti Dashboard User, Pencarian AJAX dengan jQuery, Admin Dashboard membuat website cocok menjadi Website media massa modern jika dikembangkan lebih lanjut.
